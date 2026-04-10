@@ -6,7 +6,7 @@ You can also test it out interactively at: [Desmos Smooth Gear Sim](https://www.
 
 ## Installation
 
-1. Download the script file [SmoothGearGenerator.py](#link-to-file).
+1. Download the script file [SmoothGearGen.py](#link-to-file).
 2. Open **Autodesk Fusion 360**.
 3. Navigate to the `Scripts and Add-Ins` panel under the `Utilities` tab.
 4. Next to `My Scripts`, press the green `+`.
